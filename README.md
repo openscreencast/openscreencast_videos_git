@@ -1,2 +1,4 @@
-# openscreencast_videos_git
-Videodateien mit dem Thema git vom Projekt openscreencast.de
+# Git für Einsteiger
+
+Videodateien mit dem Thema git vom Projekt openscreencast.de    
+Die Lizenz zu einer Video-Datei steht in der dazugehörigen .svg-Datei
