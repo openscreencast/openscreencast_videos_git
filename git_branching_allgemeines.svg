@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg7831"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="git_branching_allgemeines.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/paul/todo/klassen_o.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7833">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective7839" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76"
+     inkscape:cx="645.35464"
+     inkscape:cy="392.93934"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1378"
+     inkscape:window-height="886"
+     inkscape:window-x="335"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect7841"
+       width="1280"
+       height="720"
+       x="0"
+       y="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.93526459px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="653.69672"
+       y="113.42639"
+       id="text7843"
+       transform="scale(0.97701885,1.0235217)"><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="113.42639"
+         id="tspan3001">Screencast: Git für Einsteiger - Allgemeines zum Branching</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="148.34547"
+         id="tspan3002" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="183.26456"
+         id="tspan2834">www.openscreencast.de</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="218.18364"
+         id="tspan7851" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="253.10272"
+         id="tspan7855">Ausgangspunkt: Linux Mint 17.1</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="288.02179"
+         id="tspan3011" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="322.94089"
+         id="tspan2836">Datum: 29.03.2015</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="357.85995"
+         id="tspan7865" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="392.77905"
+         id="tspan7857">Lizenz: Creative Commons by-sa</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="427.69812"
+         id="tspan2838">http://creativecommons.org/licenses/by-sa/3.0/</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="462.61719"
+         id="tspan3004" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="497.53629"
+         id="tspan3005">Textquellen: https://svij.org/blog/2014/11/01/git-fur-einsteiger-teil-2/</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="532.45538"
+         id="tspan3014">&quot;Git für Einsteiger - Teil 2&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="567.37445"
+         id="tspan3009">von Sujeevan Vijayakumaran (http://svij.org)</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="602.29352"
+         id="tspan3016">Lizenz: http://creativecommons.org/licenses/by-sa/3.0/</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="637.21259"
+         id="tspan3027" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="672.13165"
+         id="tspan3031" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="707.05078"
+         id="tspan3057" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="741.96985"
+         id="tspan7861" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="776.88892"
+         id="tspan4096" /></text>
+  </g>
+</svg>
